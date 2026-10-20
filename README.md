@@ -6,9 +6,13 @@ The internship is helping me improve my Python programming skills by working on 
 
 Objectives : 
   1.Learn Python Programming
+  
   2.Improve Coding Skills
+  
   3.Build Real-World Projects
+
   4.Understand Problem Solving Techniques
+  
   5.Gain Practical Development Experience
 
   
