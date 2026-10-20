@@ -10,7 +10,8 @@ Objectives :
   5.Gain Practical Development Experience
 
   
-Projects : Task 1 - Hangman Game
+Projects : 
+Task 1 - Hangman Game
 A console-based word guessing game developed using Python.
 
 Task 2 - Stock Portfolio Tracker
