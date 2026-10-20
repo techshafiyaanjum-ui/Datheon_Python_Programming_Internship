@@ -5,6 +5,7 @@ The internship is helping me improve my Python programming skills by working on 
 
 
 Objectives : 
+
   1.Learn Python Programming
   
   2.Improve Coding Skills
@@ -17,6 +18,7 @@ Objectives :
 
   
 Projects : 
+
 Task 1 - Hangman Game
 A console-based word guessing game developed using Python.
 
@@ -27,11 +29,17 @@ Task 3 - Rule-Based Chatbot
 An interactive chatbot that responds to user queries using predefined rules and conditions.
 
 Technologies Used :
+
   1.Python
+  
   2.CSV
+  
   3.JSON
+  
   4.Regular Expressions
+  
   5.VS Code
   
 Author - Shafiya Anjum
+
 Python Programming Intern at Datheon
